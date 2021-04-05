@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<langues>
+	<language>
+		<name>fr</name>
+		<play>Jouer</play>
+		<settings>Options</settings>
+		<quit>Quitter</quit>
+		<low>Petit</low>
+		<medium>Moyen</medium>
+		<high>Grand</high>
+		<veryhigh>Ultra</veryhigh>
+		<back>Retour</back>
+		<host>Hôte</host>
+		<join>Rejoindre</join>
+		<enterIpAdress>Entrez l'adresse ip...</enterIpAdress>
+		<fullscreen>Plein écran</fullscreen>
+		<bluewallcontrol>Controlle des murs bleus</bluewallcontrol>
+		<redwallcontrol>Controlle des murs rouges</redwallcontrol>
+		<greenwallcontrol>Controlle des murs verts</greenwallcontrol>
+		<active>Activer</active>
+		<valid>Valider</valid>
+		<leave>Quitter</leave>
+		<entercmd>Entrez la commande...</entercmd>
+		<interractE>Interragir avec "e"</interractE>
+		<leaveMatch>Quitter la partie</leaveMatch>
+	</language>
+	<language>
+		<name>en</name>
+		<play>Play</play>
+		<settings>Settings</settings>
+		<quit>Quit</quit>
+		<low>Low</low>
+		<medium>Medium</medium>
+		<high>High</high>
+		<veryhigh>Very high</veryhigh>
+		<back>Back</back>
+		<host>Host</host>
+		<join>Join</join>
+		<enterIpAdress>Enter ip...</enterIpAdress>
+		<fullscreen>Full screen</fullscreen>
+		<bluewallcontrol>Blue wall control</bluewallcontrol>
+		<redwallcontrol>Red wall control</redwallcontrol>
+		<greenwallcontrol>Green wall control</greenwallcontrol>
+		<active>Active</active>
+		<valid>Valid</valid>
+		<leave>Leave</leave>
+		<entercmd>Enter command...</entercmd>
+		<interractE>Interact with "e"</interractE>
+		<leaveMatch>Leave match</leaveMatch>
+	</language>
+</langues>
